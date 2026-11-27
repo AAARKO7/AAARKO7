@@ -1,4 +1,5 @@
 # Hi, I'm Ayon Adhikary Arko 👋
+📍 Khulna, Bangladesh
 
 ## About Me
 - 🎓 CSE student at Northern University of Business and Technology Khulna
@@ -31,12 +32,3 @@
 
 ## Stats
 ![Ayon's GitHub stats](https://github-readme-stats.vercel.app/api?username=AAARKO7&show_icons=true&theme=dark)
-
-## Contact Information
-- 📧 Email: [aadhikaryjs2@gmail.com](mailto:aadhikaryjs2@gmail.com)
-- 📱 Phone: [+880 1533-436627](tel:+8801533436627)
-- 💬 Discord: a.a.arko
-- 💼 LinkedIn: [ayon-adhikary-arko](https://www.linkedin.com/in/ayon-adhikary-arko-730270299/)
-- 📘 Facebook: [aarkoadhikary.7](https://www.facebook.com/aarkoadhikary.7/)
-- 🎵 Spotify: [Ayon's Spotify](https://open.spotify.com/user/bgtket5wgu447n4oengej8y5b)
-- 🏠 Location: Khulna, Bangladesh
